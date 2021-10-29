@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "Stream 1",
+      "id": 1
+    },
+    {
+      "title": "Stream 2nd October",
+      "description": "Another stream",
+      "userId": "117635747403224587777",
+      "id": 2
+    },
+    {
+      "title": "Unexpected Behaviour",
+      "description": "Didn't Expect That",
+      "userId": "117635747403224587777",
+      "id": 3
+    },
+    {
+      "title": "Streamer",
+      "description": "Streamer",
+      "id": 4
+    },
+    {
+      "title": "Test",
+      "description": "Tester",
+      "userId": "117635747403224587777",
+      "id": 5
+    }
+  ]
+}
